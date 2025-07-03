@@ -1,4 +1,4 @@
-# 📝 JavaScript To-Do App
+# 📝 Geo Location Weather App using ReactJS
 A simple and clean to-do list application built with **HTML**, **CSS**, and **vanilla JavaScript**. It allows users to add, complete, delete, and persist tasks using `localStorage`.
 
 
